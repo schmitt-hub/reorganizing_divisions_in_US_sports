@@ -23,5 +23,5 @@ The distances between divison foes can be reduced by at least 2.7% in all Big 4 
 ![NBA_division_reorganization](https://user-images.githubusercontent.com/92627184/151372886-17e72716-270f-49ac-b010-333c1b19f4e7.png)|![NHL_division_reorganization](https://user-images.githubusercontent.com/92627184/151372889-75c4e4ae-77a0-451a-9cd8-a18236bb2ad5.png)|![MLB_division_reorganization](https://user-images.githubusercontent.com/92627184/151372880-8921bc8c-0e50-4cf7-a29f-94e3c6f95bbc.png)|![NFL_division_reorganization](https://user-images.githubusercontent.com/92627184/151372887-7e7450e8-aa7b-419d-9f69-cdf0e888f7a8.png)
 -----|-----|-----|-----
 
-<img src="https://user-images.githubusercontent.com/92627184/151372886-17e72716-270f-49ac-b010-333c1b19f4e7.png" width="300"/> <img src="https://user-images.githubusercontent.com/92627184/151372889-75c4e4ae-77a0-451a-9cd8-a18236bb2ad5.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/92627184/151372886-17e72716-270f-49ac-b010-333c1b19f4e7.png" width="400"/> <img src="https://user-images.githubusercontent.com/92627184/151372889-75c4e4ae-77a0-451a-9cd8-a18236bb2ad5.png" width="400"/> <img src="https://user-images.githubusercontent.com/92627184/151372880-8921bc8c-0e50-4cf7-a29f-94e3c6f95bbc.png" width="400"/>
 
