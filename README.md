@@ -8,4 +8,7 @@ So how would divisions look like that are arranged in such a way that the distan
 
    First, we geocode the exact coordinates of each team's stadium from their respective names and cities using Python's *Geopy* client. Geopy also provides a function to compute the geodesic distance (i.e. shortest distance on the surface of the earth) between each of these locations, which we will gladly make use of.
    
-   Next, we build a model that seeks
+   Next, we build a model that seeks to minimize the total distance between division opponents. It looks like this:
+   
+   
+   Finally, we let the solver *Gurobi* solve this model and obtain the optimal organization of divisions, and visualize the results on a map using Matplotlib's *Basemap* toolkit.
