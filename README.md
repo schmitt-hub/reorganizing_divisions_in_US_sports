@@ -30,6 +30,6 @@ The distances between divison foes can be reduced by at least 2.7% in all Big 4 
 ![NHL_division_reorganization](https://user-images.githubusercontent.com/92627184/151381565-9fef4a07-3935-45b0-8fa6-7844e84e1cd4.png)
 
 
-
+<img src="https://user-images.githubusercontent.com/92627184/151381556-42211042-531e-478f-ba5e-2cd20a4b5dff.png" width="220"/> <img src="https://user-images.githubusercontent.com/92627184/151381560-17fb1399-3da4-47c0-bead-f52656ac9fb9.png" width="220"/>
 
 
