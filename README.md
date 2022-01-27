@@ -31,9 +31,9 @@ The second, third and fourth constraints model transitivity. They ensure that if
 The distances between divison foes can be reduced by at least 2.7% in all Big 4 leagues. The current setups of divisions for the NBA and NHL are decently close the optimal setups as the total distances are 2.7% and 6.4% larger than the optimal total distances, respectively. The MLB and NFL, however, exhibit huge potential for improvement (31.6% and 36.2%, respectively). As it turns out, putting a team Dallas (the Cowboys) in an *East* division or a team from Houston (the Astros) in a *West* division is not conducive to minimizing distances within divisions!
 
 
-<img src="https://user-images.githubusercontent.com/92627184/151384628-ccdaee2e-2346-42e9-bbe8-282f6529a3ec.png" width="400"/> <img src="https://user-images.githubusercontent.com/92627184/151384634-0e94f705-9b1b-42ab-90af-67cee8b7f408.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/92627184/151384628-ccdaee2e-2346-42e9-bbe8-282f6529a3ec.png" width="450"/> <img src="https://user-images.githubusercontent.com/92627184/151384634-0e94f705-9b1b-42ab-90af-67cee8b7f408.png" width="450"/>
 
-<img src="https://user-images.githubusercontent.com/92627184/151384624-fdb04769-f9d0-403c-b042-f5c377c685e7.png" width="400"/> <img src="https://user-images.githubusercontent.com/92627184/151384631-4959fd60-9818-4309-aed9-6b9eb877b8f7.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/92627184/151384624-fdb04769-f9d0-403c-b042-f5c377c685e7.png" width="450"/> <img src="https://user-images.githubusercontent.com/92627184/151384631-4959fd60-9818-4309-aed9-6b9eb877b8f7.png" width="450"/>
 
 
 
