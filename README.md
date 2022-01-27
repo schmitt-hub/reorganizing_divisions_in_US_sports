@@ -30,9 +30,9 @@ The distances between divison foes can be reduced by at least 2.7% in all Big 4 
 ![NHL_division_reorganization](https://user-images.githubusercontent.com/92627184/151381565-9fef4a07-3935-45b0-8fa6-7844e84e1cd4.png)
 
 
-<img src="https://user-images.githubusercontent.com/92627184/151384628-ccdaee2e-2346-42e9-bbe8-282f6529a3ec.png" width="400"/> <img src="https://user-images.githubusercontent.com/92627184/151384634-0e94f705-9b1b-42ab-90af-67cee8b7f408.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/92627184/151384628-ccdaee2e-2346-42e9-bbe8-282f6529a3ec.png" width="500"/> <img src="https://user-images.githubusercontent.com/92627184/151384634-0e94f705-9b1b-42ab-90af-67cee8b7f408.png" width="500"/>
 
-<img src="https://user-images.githubusercontent.com/92627184/151384624-fdb04769-f9d0-403c-b042-f5c377c685e7.png" width="400"/> <img src="https://user-images.githubusercontent.com/92627184/151384631-4959fd60-9818-4309-aed9-6b9eb877b8f7.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/92627184/151384624-fdb04769-f9d0-403c-b042-f5c377c685e7.png" width="500"/> <img src="https://user-images.githubusercontent.com/92627184/151384631-4959fd60-9818-4309-aed9-6b9eb877b8f7.png" width="500"/>
 
 
 
