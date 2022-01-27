@@ -2,7 +2,7 @@
 The big 4 US sport leagues (NFL, NBA, MLB & NHL) are arranged in divisions, i.e. teams in the same division play each other more often throughout a season. Thus, a well thought out organization of divisions is crucial for keeping travel distances small -- not only for team members but also for away fans willing to travel to the enemy's territory to support their team.
 So how would divisions look like that are arranged in such a way that the distances between division foes are minimized? We will turn to Mathematical Optimization to answer this.
 
-# Repository content
+## Repository content
 - For each of the 4 leagues we obtain data regarding the stadium name and city for each team from *geojango.com*. This builds the basis for the input data table `US_stadiums.xlsx`, where for each team we also map the division that the team currently plays in. 
 - `reorganize_divisions.py` contains all the code.
 
@@ -12,3 +12,12 @@ So how would divisions look like that are arranged in such a way that the distan
    
    
    Finally, we let the solver *Gurobi* solve this model and obtain the optimal organization of divisions, and visualize the results on a map using Matplotlib's *Basemap* toolkit.
+   
+## Requirements to run code
+The code uses some open-source Python packages. The ones that the reader may be most unfamiliar with are:
+- *Geopy*, which allowed geocoding the exact locations of the arenas as well as calculating the geodesic distances between these locations.
+- *Gurobi*, a software well-equiped for solving (and building) optimization models.
+- *Basemap*, a Matplotlib toolkit that was used for plotting the results on a map.
+
+## Results
+
