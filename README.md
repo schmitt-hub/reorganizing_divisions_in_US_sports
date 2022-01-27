@@ -19,10 +19,17 @@ The code uses some open-source Python packages. The ones that the reader may be 
 - *Basemap*, a Matplotlib toolkit that was used for plotting the results on a map.
 
 ## Results
-The distances between divison foes can be reduced by at least 2.7% in all Big 4 leagues. The current setups of divisions for the NBA and NHL are decently close the optimal setups as the total distances are 2.7% and 6.4% larger than the optimal total distances, respectively. The MLB and NFL, however, exhibit huge potential for improvement (31.6% and 36.2%, respectively). This comes to no surprise, considering that the NFL has a team from Dallas play in an *East*, while the MLB puts a team from Houston in a *West* division.
+The distances between divison foes can be reduced by at least 2.7% in all Big 4 leagues. The current setups of divisions for the NBA and NHL are decently close the optimal setups as the total distances are 2.7% and 6.4% larger than the optimal total distances, respectively. The MLB and NFL, however, exhibit huge potential for improvement (31.6% and 36.2%, respectively). As it turns out, putting a team Dallas (the Cowboys) in an *East* division or a team from Houston (the Astros) in a *West* division is not conducive to minimizing distances within divisions!
 
 
 <img src="https://user-images.githubusercontent.com/92627184/151376439-c563cf5a-8c44-4161-b07f-84614ecb45a7.png" width="220"/> <img src="https://user-images.githubusercontent.com/92627184/151376425-934df1fe-eaff-4ec9-84cd-63c84d88715f.png" width="220"/> <img src="https://user-images.githubusercontent.com/92627184/151375700-67d8e487-8221-48b6-980a-2b35b59f6518.png" width="220"/> <img src="https://user-images.githubusercontent.com/92627184/151376526-03ac3db0-b367-429f-b1e8-8089f12c2dc0.png" width="220"/>
+
+![MLB_division_reorganization](https://user-images.githubusercontent.com/92627184/151381556-42211042-531e-478f-ba5e-2cd20a4b5dff.png)
+![NBA_division_reorganization](https://user-images.githubusercontent.com/92627184/151381560-17fb1399-3da4-47c0-bead-f52656ac9fb9.png)
+![NFL_division_reorganization](https://user-images.githubusercontent.com/92627184/151381562-22d4bae8-7b45-4304-be2e-c3b462972f0a.png)
+![NHL_division_reorganization](https://user-images.githubusercontent.com/92627184/151381565-9fef4a07-3935-45b0-8fa6-7844e84e1cd4.png)
+
+
 
 
 
