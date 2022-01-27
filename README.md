@@ -24,7 +24,7 @@ The model looks like this:
 ![model](https://user-images.githubusercontent.com/92627184/151392387-3aea23ce-1af1-4478-948b-4c93269c9bf3.PNG)
 
 The first constraint ensures that every team is in a division with B-1 other teams, where B is the number of teams in any division.
-The second, third and fourth are transitivity constraints. They ensure that if any 2 teams X and Y are in the same the division, and Y is in the same division with another team Z, then X and Z have to be in the same division as well.
+The second, third and fourth constraints model transitivity. They ensure that if any 2 teams X and Y are in the same the division, and Y is in the same division with another team Z, then X and Z have to be in the same division as well.
 
 
 ## Results
