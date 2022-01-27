@@ -12,6 +12,8 @@ So how would divisions look like that are arranged in such a way that the distan
    
    Finally, we let the solver *Gurobi* solve this model and obtain the optimal organization of divisions, and visualize the results on a map using Matplotlib's *Basemap* toolkit.
    
+- `results.xlsx` illustrates which teams should be grouped together in a division for each of the Big 4 leagues in table format.
+   
 ## Requirements to run code
 The code uses some open-source Python packages. The ones that the reader may be most unfamiliar with are:
 - *Geopy*, which allowed geocoding the exact locations of the arenas as well as calculating the geodesic distances between these locations.
